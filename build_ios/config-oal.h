@@ -60,7 +60,7 @@
 /* #undef HAVE_COREAUDIO */
 
 /* Define if we have the OpenSL backend */
-#define HAVE_OPENSL
+// #define HAVE_OPENSL
 
 /* Define if we have the Wave Writer backend */
 #define HAVE_WAVE
@@ -112,7 +112,7 @@
 #endif // HAVE_NEON
 
 /* Define if we have malloc.h */
-#define HAVE_MALLOC_H
+// #define HAVE_MALLOC_H
 
 /* Define if we have cpuid.h */
 /* #undef HAVE_CPUID_H */

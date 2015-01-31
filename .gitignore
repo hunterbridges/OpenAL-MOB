@@ -3,3 +3,5 @@ winbuild
 include/sndio.h
 include/sys
 openal-soft.kdev4
+.DS_Store
+xcuserdata
