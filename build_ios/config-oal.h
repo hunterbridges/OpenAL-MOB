@@ -57,7 +57,7 @@
 /* #undef HAVE_PULSEAUDIO */
 
 /* Define if we have the CoreAudio backend */
-/* #undef HAVE_COREAUDIO */
+#define HAVE_COREAUDIO
 
 /* Define if we have the OpenSL backend */
 // #define HAVE_OPENSL
